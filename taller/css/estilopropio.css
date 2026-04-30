@@ -29,6 +29,7 @@ h2
 {
     font-family: cursive;
     font-size: 25px;
+    color: red;
 }
 
 p,li,b
@@ -40,7 +41,7 @@ p,li,b
 {
     width: 100%;
     height: 400px; 
-    background-color: cadetblue;
+    background-color: #2c2c2c;
 }
 
 #cajalogo
@@ -53,6 +54,48 @@ padding-top: 100px;
 {
 
     color: black;
-    font-size: 25px;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#logo{
+
+    width: 250px;
+    height: 200px;
+
+
+}
+
+nav a {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    text-decoration: none; 
+    color: blue;
+    margin-right: 20px;
+}
+
+#imagenfutbol{
+
+    width: 350px;
+    height: 300px;
+    
+}
+#menupad1{
+
+background-color: #60a5fa;
+padding: 7px;
+
+}
+
+#menupad1 li {
+
+display: inline-block;
+list-style: none;
+padding: 10px;
+
+}
+#menupad1 a{
+    text-decoration: none;
 
 }
