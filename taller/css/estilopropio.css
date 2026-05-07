@@ -99,3 +99,33 @@ padding: 10px;
     text-decoration: none;
 
 }
+
+#seccion1{
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+#video{
+    width: 50%;
+    text-align: center;
+}
+#videoprincipal{
+    width: 80;
+    border-radius: 15px;
+    margin: 20px;
+    box-shadow: 5px 5px 15px 5px grey;
+}
+
+#textoprin1{
+    width: 50%;
+}
+
+#seccion2{
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
+
+.serv{
+    margin: 30px
+}
